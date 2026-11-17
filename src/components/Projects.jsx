@@ -43,9 +43,9 @@ function Projects() {
                   GitHub ↗
                 </a>
 
-                <a href={project.demo}>
+                {/* <a href={project.demo}>
                   Demo ↗
-                </a>
+                </a> */}
               </div>
             </div>
           </article>

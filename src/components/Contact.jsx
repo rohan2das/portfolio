@@ -17,17 +17,17 @@ function Contact() {
 
         <a
           className="contact-email"
-          href="mailto:your-email@example.com"
+          href="mailto:dasrohan20000@gmail.com"
         >
-          your-email@example.com ↗
+          dasrohan20000@gmail.com ↗
         </a>
 
         <div className="contact-links">
-          <a href="#" target="_blank" rel="noreferrer">
+          <a href="https://github.com/rohan2das" target="github" rel="noreferrer">
             GitHub ↗
           </a>
 
-          <a href="#" target="_blank" rel="noreferrer">
+          <a href="https://www.linkedin.com/in/rohan2das" target="_blank" rel="noreferrer">
             LinkedIn ↗
           </a>
         </div>
